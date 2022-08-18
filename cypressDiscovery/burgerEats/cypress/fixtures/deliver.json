@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Homer Simpson",
+        "cpf": "14598763269",
+        "email": "h.simpson@yahoo.com.br",
+        "whatsapp": "48111111111",
+        "address": {
+          "postalcode": "89900000",
+          "street": "Willy Barth",
+          "number": "2364",
+          "details": "apto 403",
+          "district": "São Gotardo",
+          "city_state": "São Miguel do Oeste/SC"
+        },
+       "delivery_method": "Van/Carro",
+        "cnh": "cnhHomer.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Marge Simpson",
+        "cpf": "145a9876xx@",
+        "email": "m.simpson@yahoo.com.br",
+        "whatsapp": "48222222222",
+        "address": {
+          "postalcode": "89900000",
+          "street": "Rua Padre Aurélio Canzi",
+          "number": "1813",
+          "details": " ",
+          "district": "Centro",
+          "city_state": "São Miguel do Oeste/SC"
+        },
+       "delivery_method": "Moto",
+        "cnh": "cnhHomer.jpg"
+    },
+
+    "email_inv": {
+      "name": "Homer Simpson",
+      "cpf": "14598763269",
+      "email": "simpson.com.br",
+      "whatsapp": "48111111111",
+      "address": {
+        "postalcode": "89900000",
+        "street": "Willy Barth",
+        "number": "2364",
+        "details": "apto 403",
+        "district": "São Gotardo",
+        "city_state": "São Miguel do Oeste/SC"
+      },
+     "delivery_method": "Van/Carro",
+      "cnh": "cnhHomer.jpg"
+  }
+}

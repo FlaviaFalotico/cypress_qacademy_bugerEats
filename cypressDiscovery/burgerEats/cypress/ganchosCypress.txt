@@ -1,0 +1,16 @@
+Ganchos do Cypress
+  before( ()=> {
+    cy.log('Tudo aqui é executado uma única vez ANTES de todos os casos de teste')
+  })
+
+  beforeEach( ()=> {
+    cy.log('Tudo aqui é executado SEMPRE antes de cada caso de teste')
+  })
+
+  after( ()=> {
+    cy.log('Tudo aqui é executado uma única vez DEPOIS de todos os casos de teste')
+  })
+
+  afterEach( ()=> {
+    cy.log('Tudo aqui é executado SEMPRE depois de cada caso de teste')
+  })

@@ -1,0 +1,14 @@
+{
+  "name": "getstarted",
+  "version": "1.0.0",
+  "description": "Primeiro exempo com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Flávia Falotico",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
